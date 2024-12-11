@@ -5,9 +5,7 @@ Hello, I'm Pedro, I'm a computer engineering student at ESTIG, I'm a volunteer f
 
 ⚙️ Technical Skills
 
-🌅 FrontEnd: HTML, ReactNative, UWP, CSS, JavaScript
-
-💻 BackEnd: C++, C, Java, Python
+💻C++, C, Java, Python, HTML, ReactNative, UWP, CSS, JavaScript
 
 💾 DataBase: MySql, MongoDB
 
